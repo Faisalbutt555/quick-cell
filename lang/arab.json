@@ -1,0 +1,24 @@
+{
+    "welcome": "أهلا بك",
+    "next": "التالى",
+   "welcomeTitle": "ابحث عن قصر كبير لبيع أو شراء منتجاتك",
+   "skip":"تخطى",
+   "hieveryone":"مرحباً بالجميع",
+   "username":"اسم المستخدم",
+   "signin":"تسجيل الدخول",
+   "password":"كلمه السر",
+   "forgot":"هل نسيت كلمة المرور",
+   "login":"تسجيل الدخول",
+   "or":"أو",
+   "ifhavenoaccount":"إذا لم يكن لديك حساب",
+   "registerwithus":"سجل معنا",
+    "mobile":"رقم الهاتف المحمول",
+    "confirm":"تأكيد كلمة المرور",
+    "termandcondition":"أحكام وشروط",
+    "register":"تسجيل",
+    "ifyouhaveaccount":"إذا كان لديك حساب",
+    "loginnow":"تسجيل الدخول الآن"
+
+
+
+  }
